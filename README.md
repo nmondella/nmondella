@@ -64,23 +64,6 @@ This passion led me into the world of **Machine Learning**, **Deep Learning**, a
 
 ---
 
-## 📊 GitHub Highlights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nicholas&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nicholas&theme=tokyonight&hide_border=true&mode=weekly" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nicholas&margin-w=10&margin-h=10&no-frame=true&row=1&column=6&theme=github_dark" />
-</p>
-
----
-
 ## 📬 Connect with Me  
 
 <p align="center">
